@@ -25,6 +25,25 @@
 // node.insertBefore() -> menyisipkan sebelum child tertentu
 // parentNode.removeChild() -> menghapus child
 // parentNode.replaceChild() -> mengganti child
+// node.cloneNode() -> menggandakan node
+// node.style.display = 'none' -> menghilangkan node
+
+// Event Handler
+// onclick -> ketika di klik
+// onmouseover -> ketika mouse di atas
+// onmouseout -> ketika mouse keluar dari area
+// onkeydown -> ketika keyboard ditekan
+// onkeyup -> ketika keyboard dilepas
+// onkeypress -> ketika keyboard ditekan
+
+// DOM Traversal
+// parentNode -> node
+// parentElement -> element
+// nextSibling -> node
+// nextElementSibling -> element
+// previousSibling -> node
+// previousElementSibling -> element
+
 
 
 // first BT
